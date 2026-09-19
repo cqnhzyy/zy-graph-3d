@@ -1,0 +1,14 @@
+# 机器相关路径，不进仓库
+graphify-out/.graphify_python
+graphify-out/.graphify_root
+
+# Graphify 本地成本记录
+graphify-out/cost.json
+
+# 私有文件（含学习状态标注的备份）
+.local/
+
+# 系统文件
+Thumbs.db
+Desktop.ini
+.DS_Store
